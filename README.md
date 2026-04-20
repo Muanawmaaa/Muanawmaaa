@@ -1,6 +1,6 @@
 ## a beginner!
-12th grade so, still learning coding in general
-👋
+Learning as I go
+
 
 <!--
 **Muanawmaaa/Muanawmaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
